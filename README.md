@@ -1,1 +1,1 @@
-# ngseed-with-require
+# ngseed-with-requirejs
